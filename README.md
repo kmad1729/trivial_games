@@ -1,4 +1,4 @@
-# trivial_games
+# Trivial Games
 
 multiplication_game.py
 ------------------------
