@@ -1,7 +1,7 @@
 # trivial_games
 
--multiplication_game.py
+multiplication_game.py
 ------------------------
 
-    *simple multiplication game to test how fast you can multiply
+simple multiplication game to test how fast you can multiply
 
