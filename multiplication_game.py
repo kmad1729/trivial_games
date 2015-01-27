@@ -1,6 +1,7 @@
 'a simple script to test mulitplication speeds'
 import sys
 from random import randint
+#TODO change time to datetime
 import time
 
 
@@ -28,6 +29,7 @@ def report_time(time_in_sec):
 if __name__ == '__main__':
     print "hi welcome to the program"
 
+    #TODO put database support so that there is no need to enter name many times
     name = raw_input("please enter your name -> ")
     print "Hi {}".format(name)
 
